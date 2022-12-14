@@ -103,7 +103,8 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 - Use [schema_based_on_diagram.sql](./schema_based_on_diagram.sql) to create all tables.
 
-
+### Screenshot
+[!](/clinic_diagram.png)
 
 ### Prerequisites
 
